@@ -6,19 +6,35 @@ import { v4 as uuid } from "uuid";
 const ContentImageData = [
     {
         id: uuid(),
-        title: "Effortless Planning",
+        title: "Tilored Solutions for Every Home",
         content:
-            "Say goodbye to meal planning stress! With NutriTrack, planning your meals becomes a breeze. Our user-friendly Notion template lets you create customized daily or weekly meal plans effortlessly. Enjoy a balanced and nutritious diet without the hassle.",
+            " MaxiPlexi revolutionizes the ADU selection process by facilitating a chat-based conversation to capture your specific needs, lifestyle, and local architectural preferences. This innovative approach moves away from standard forms, offering you a selection of visually appealing, functional, and seamlessly integrated designs that resonate with your personal style.",
         align: "right",
         image: "/features1.png"
     },
     {
         id: uuid(),
-        title: "Shopping List",
+        title: "Your Perfect Match Awaits",
         content:
-            "We've got your grocery shopping covered! NutriTrack includes a handy shopping list feature. As you plan your meals, the template automatically generates a comprehensive shopping list. No more forgotten items or aimless wandering in the supermarket. Shopping for healthy ingredients has never been easier!",
+            "Connect with a vast network of vetted contractors through our AI-driven marketplace. MaxiPlexi evaluates contractors on their history, expertise, and customer satisfaction, providing multiple bids to ensure you find the ideal professional for your project at the best price.",
         align: "left",
         image: "/features2.png"
+    },
+    {
+        id: uuid(),
+        title: "Navigating Bureaucracy with Ease",
+        content:
+            "Tackle the complexities of permit applications effortlessly with MaxiPlexi's meticulous guide. We assist in simplifying the process, helping you fill out forms, gather the right information, and ensure all paperwork is accurately completed. Enjoy a smooth path to construction with our expert support.",
+        align: "right",
+        image: "/features3.png"
+    },
+    {
+        id: uuid(),
+        title: "Knowledge at Your Fingertips",
+        content:
+            "Empower your ADU project with MaxiPlexi's integrated analysis tools. Gain valuable insights into contracts, market trends, and value analysis. Understand the potential return on investment and explore rental possibilities with confidence, maximizing the financial benefits of your home expansion.",
+        align: "left",
+        image: "/features4.png"
     }
 ];
 

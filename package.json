@@ -1,12 +1,12 @@
 {
     "name": "maxiplexi",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "description": "MaxiPlexi - AI-driven ADU marketplace that empowering every homeowners journey of house expansion.",
     "main": "index.js",
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/christian-luntok/nutritrack.git"
+        "url": "git+https://github.com/supertimmyh/maxiplexi.git"
     },
     "keywords": [
         "next",
@@ -17,8 +17,6 @@
         "tailwindcss",
         "tailwind"
     ],
-    "author": "chrstnl",
-    "homepage": "https://chrstnl.com/",
     "scripts": {
         "dev": "next dev",
         "build": "next build",

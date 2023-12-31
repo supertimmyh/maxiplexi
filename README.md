@@ -97,13 +97,3 @@ You can update the colors in tailwind.config.js file.
 ## Update Favicon
 
 Update the manifest.json file and the icons under the public/images/icons folder.
-
-You can use free tools online such as https://realfavicongenerator.net/ to quickly generate all the different icon sizes and favicon.ico file.
-
-## Feedback and Suggestions
-
-If you have any suggestions/feedback feel free to open an issue if you find bugs or want to request new features.
-
----
-
-Made by [chrstnl](https://chrstnl.com/)

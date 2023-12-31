@@ -43,7 +43,7 @@ export const HomeBanner = () => {
                                 href="https://maxiplexi.com/start"
                                 className="btn btn--secondary"
                             >
-                                Get Started
+                                Notify Me
                                 <Icon icon="material-symbols:arrow-forward-rounded" />
                             </a>
                         </ButtonGroup>

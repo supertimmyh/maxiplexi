@@ -7,30 +7,59 @@ import clsx from "clsx";
 const accordionData = [
     {
         id: uuid(),
-        title: "What is Notion?",
+        title: "What is MaxiPlexi?",
         isOpen: true,
         content:
-            "Notion is an all-in-one productivity tool that allows you to create notes, databases, and collaborative workspaces, making it easy to organize and manage your tasks, projects, and ideas in one place."
+            "MaxiPlexi is an AI-driven marketplace designed to streamline the process of building accessory dwelling units (ADUs) by connecting homeowners with qualified contractors and architects. It focuses on matching user's style preferences with professionals who have a track record of similar successful projects."
     },
     {
         id: uuid(),
-        title: "Who is this template for?",
+        title: "How does MaxiPlexi work?",
         isOpen: false,
         content:
-            "This template is specifically designed for Notion creators who want to create a personalized landing page for their Notion workspace, showcasing their projects, services, or content in a visually appealing manner."
+            "MaxiPlexi uses AI technology to understand your specific ADU needs and style preferences through an interactive chat-based system. It then matches you with vetted contractors and architects from our network, providing multiple bids for your project."
     },
     {
         id: uuid(),
-        title: "Do I need to pay for this?",
-        isOpen: false,
-        content: "No, this is free."
-    },
-    {
-        id: uuid(),
-        title: "Where can I ask more questions about this template?",
+        title: "MaxiPlexi involved in the construction process?",
         isOpen: false,
         content:
-            "If you have any further questions or need assistance regarding this template, please feel free to reach out to me on my website, or click the Contact within the navigation links."
+            "Currently MaxiPlexi is not directly involved in the construction. Instead, it facilitates the connection between homeowners and the best-suited contractors and architects for their ADU project."
+    },
+    {
+        id: uuid(),
+        title: "How does MaxiPlexi select contractors and architects?",
+        isOpen: false,
+        content:
+            "Contractors and architects are vetted based on their expertise, experience, customer feedback, and history of completed projects. MaxiPlexi's AI-driven system ensures that these professionals align with your project's specific needs and style."
+    },
+    {
+        id: uuid(),
+        title: "Can MaxiPlexi help with permit applications?",
+        isOpen: false,
+        content:
+            "While MaxiPlexi does not directly handle permit applications, it provides users with guidance and resources to help navigate the permitting process more smoothly."
+    },
+    {
+        id: uuid(),
+        title: "What kind of design styles can I choose from?",
+        isOpen: false,
+        content:
+            "MaxiPlexi offers a wide range of design styles, from modern and contemporary to traditional and rustic. The platform matches your preference with professionals who have experience in those particular styles."
+    },
+    {
+        id: uuid(),
+        title: "How much does it cost to use MaxiPlexi?",
+        isOpen: false,
+        content:
+            "It is absolutely free to use MaxiPlexi to select designs and receive quotes. Users can explore various design options and connect with contractors and architects without any upfront cost. MaxiPlexi is compensated by the contractors or architects only once a contract is signed, ensuring a commitment-free browsing and planning experience for homeowners."
+    },
+    {
+        id: uuid(),
+        title: "How does MaxiPlexi ensure the quality of each project?",
+        isOpen: false,
+        content:
+            "Quality assurance is achieved through the rigorous vetting of contractors and architects, as well as continuous feedback and ratings from users to ensure high standards are maintained throughout the network."
     }
 ];
 

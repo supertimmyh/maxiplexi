@@ -27,22 +27,17 @@ const DATA = [
         items: [
             {
                 label: "About",
-                href: "https://github.com/christian-luntok/",
+                href: "/",
                 target: "_blank"
             },
             {
                 label: "Twitter",
-                href: "https://github.com/christian-luntok/",
+                href: "/",
                 target: "_blank"
             },
             {
                 label: "Instagram",
-                href: "https://github.com/christian-luntok/",
-                target: "_blank"
-            },
-            {
-                label: "Facebook",
-                href: "https://github.com/christian-luntok/",
+                href: "/",
                 target: "_blank"
             }
         ]
@@ -63,7 +58,7 @@ export const Footer = () => {
                             <div className="footer--logo grid gap-8">
                                 <Link href="/">
                                     <Image
-                                        src="/nutritrack.svg"
+                                        src="/maxiplexi-logo.png"
                                         alt="logo"
                                         className="h-10 w-auto"
                                         height="25"
@@ -78,7 +73,7 @@ export const Footer = () => {
                                         href="https://github.com/christian-luntok/nutritrack"
                                         className="btn btn--secondary"
                                     >
-                                        Get Template
+                                        Notify Me
                                         <Icon icon="material-symbols:arrow-forward-rounded" />
                                     </a>
                                 </ButtonGroup>
@@ -127,17 +122,7 @@ export const Footer = () => {
             <SectionContainer className="footer-credits relative z-10">
                 <div className="wrap wrap-px py-6">
                     <p className="my-0">
-                        © {year} Nutritrack. All rights reserved{" - "}
-                        <span className="font-normal">
-                            A template by{" "}
-                            <Link
-                                className="transition-colors duration-300 hover:underline"
-                                href="https://chrstnl.com"
-                                target="_blank"
-                            >
-                                chrstnl.
-                            </Link>
-                        </span>
+                        © {year} MaxiPlexi. All rights reserved
                     </p>
                 </div>
             </SectionContainer>
