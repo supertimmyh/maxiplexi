@@ -8,7 +8,7 @@ const ContentImageData = [
         id: uuid(),
         title: "Tilored Solutions for Every Home",
         content:
-            " MaxiPlexi revolutionizes the ADU selection process by facilitating a chat-based conversation to capture your specific needs, lifestyle, and local architectural preferences. This innovative approach moves away from standard forms, offering you a selection of visually appealing, functional, and seamlessly integrated designs that resonate with your personal style.",
+            "MaxiPlexi revolutionizes the ADU selection process by facilitating a chat-based conversation to capture your specific needs, lifestyle, and local architectural preferences. This innovative approach moves away from standard forms, offering you a selection of visually appealing, functional, and seamlessly integrated designs that resonate with your personal style.",
         align: "right",
         image: "/features1.png"
     },
