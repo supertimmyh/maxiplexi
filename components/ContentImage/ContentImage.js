@@ -1,12 +1,12 @@
 import { SectionContainer } from "@components/Section";
 import { Icon } from "@iconify/react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { v4 as uuid } from "uuid";
 
 const ContentImageData = [
     {
         id: uuid(),
-        title: "Tilored Solutions for Every Home",
+        title: "Tailored Solutions for Every Home",
         content:
             "MaxiPlexi revolutionizes the ADU selection process by facilitating a chat-based conversation to capture your specific needs, lifestyle, and local architectural preferences. This innovative approach moves away from standard forms, offering you a selection of visually appealing, functional, and seamlessly integrated designs that resonate with your personal style.",
         align: "right",

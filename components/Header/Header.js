@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { SectionContainer } from "@components/Section";
 import { Nav } from "@components/Nav";
 import { ButtonGroup, Button } from "@components/Button";
@@ -19,7 +19,7 @@ export const Header = () => {
                                 src="/maxiplexi-logo.png"
                                 alt="logo"
                                 className="h-6 w-auto"
-                                height="24"
+                                height="100"
                                 width="100"
                                 priority
                             />
@@ -31,11 +31,11 @@ export const Header = () => {
                     <ButtonGroup className="hidden md:block">
                         <a
                             role="button"
-                            href="https://github.com/christian-luntok/nutritrack"
+                            to="#signup"
+                            href="/#signup"
                             className="btn btn--secondary ml-4"
                         >
-                            Notify Me
-                            <Icon icon="material-symbols:arrow-forward-rounded" />
+                            Sign Me Up
                         </a>
                     </ButtonGroup>
                 </SectionContainer>

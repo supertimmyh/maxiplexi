@@ -1,6 +1,6 @@
 import { SectionContainer } from "@components/Section";
 import Link from "next/link";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { ButtonGroup } from "@components/Button";
 import { Icon } from "@iconify/react";
 
@@ -61,7 +61,7 @@ export const Footer = () => {
                                         src="/maxiplexi-logo.png"
                                         alt="logo"
                                         className="h-10 w-auto"
-                                        height="25"
+                                        height="100"
                                         width="100"
                                         priority
                                     />
@@ -73,8 +73,7 @@ export const Footer = () => {
                                         href="https://github.com/christian-luntok/nutritrack"
                                         className="btn btn--secondary"
                                     >
-                                        Notify Me
-                                        <Icon icon="material-symbols:arrow-forward-rounded" />
+                                        Sign Me Up
                                     </a>
                                 </ButtonGroup>
                             </div>

@@ -5,7 +5,7 @@ import { MotionBTTContainer, MotionInfiniteImage } from "@components/Motion";
 import { SectionContainer } from "@components/Section";
 import { PageTitle } from "@components/Title";
 import { Icon } from "@iconify/react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 export const HomeBanner = () => {
     return (
@@ -38,14 +38,6 @@ export const HomeBanner = () => {
                     <div className="mt-6 mb-16 text-center">
                         <ButtonGroup alignment="center">
                             <Button href="#features">Explore Designs</Button>
-                            <a
-                                role="button"
-                                href="https://maxiplexi.com/start"
-                                className="btn btn--secondary"
-                            >
-                                Notify Me
-                                <Icon icon="material-symbols:arrow-forward-rounded" />
-                            </a>
                         </ButtonGroup>
                     </div>
                 </MotionBTTContainer>
@@ -54,8 +46,8 @@ export const HomeBanner = () => {
                     <div className="page-banner--image">
                         <Image
                             src="/maxiplexi-home-banner.png" // Update this to your image path
-                            width={1024}
-                            height={680}
+                            width={1200}
+                            height={1200}
                             alt="MaxiPlexi Home Banner"
                             objectFit="cover"
                             className="mx-auto"

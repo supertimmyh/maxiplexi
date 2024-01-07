@@ -9,6 +9,7 @@ import { Content } from "@components/Content";
 import { ProgressBar } from "@components/ProgressBar";
 import { Accordion } from "@components/Accordion";
 import { MotionBTTContainer } from "@components/Motion";
+import { SignUp } from "@components/SignUp";
 import SEO from "@components/SEO/SEO";
 
 export default function Home() {
@@ -21,6 +22,9 @@ export default function Home() {
             <div className="main-wrapper bg-[#F3F5F8] relative z-10 pb-20 pt-20 ">
                 {/* { Page Banner } */}
                 <HomeBanner />
+                <SectionContainer id="signup" className="signup">
+                    <SignUp className="signup" />
+                </SectionContainer>
                 {/* Components Container */}
                 <SectionContainer className="components--container wrap wrap-px grid gap-8 sm:gap-24">
                     {/* Features */}
