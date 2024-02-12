@@ -16,8 +16,8 @@ export default function Home() {
     return (
         <Layout className="">
             <SEO
-                title="MaxiPlexi - A landing page of AI-driven ADU marketplace 🏠"
-                description="MaxiPlexi, your gateway to a streamlined home expansion. Harness the power of AI to effortlessly customize and manage your accessory dwelling unit (ADU) project. Our intelligent marketplace connects you with qualified contractors, ensuring a seamless match for your unique needs. Elevate your home's value with innovative design and efficient collaboration, all tailored to your lifestyle. Start your journey with MaxiPlexi and transform your property with confidence and ease."
+                title="OpenPlex - A landing page of AI-driven ADU marketplace 🏠"
+                description="OpenPlex, your gateway to a streamlined home expansion. Harness the power of AI to effortlessly customize and manage your accessory dwelling unit (ADU) project. Our intelligent marketplace connects you with qualified contractors, ensuring a seamless match for your unique needs. Elevate your home's value with innovative design and efficient collaboration, all tailored to your lifestyle. Start your journey with OpenPlex and transform your property with confidence and ease."
             />
             <div className="main-wrapper bg-[#F3F5F8] relative z-10 pb-20 pt-20 ">
                 {/* { Page Banner } */}
@@ -43,7 +43,7 @@ export default function Home() {
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
-                                    MaxiPlexi brings innovation to your doorstep
+                                    OpenPlex brings innovation to your doorstep
                                     as an AI-driven marketplace for accessory
                                     dwelling units (ADUs). Streamlining the ADU
                                     construction process, our platform focuses
@@ -79,7 +79,7 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                Would like to know more about MaxiPlexi?{" "}
+                                Would like to know more about OpenPlex?{" "}
                                 <br></br>
                                 <br></br>No worries! We&apos;ve got the answers
                                 you need:

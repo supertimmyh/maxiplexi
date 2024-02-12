@@ -1,12 +1,12 @@
 <div align="center">
-  <img alt="MaxiPlexi logo" src="/public/placeholder.svg" width="100" />
+  <img alt="OpenPlex logo" src="/public//openplex-logo.png" width="100" />
 </div>
 
 <h1 align="center">
-  MaxiPlexi - A landing page of AI-driven ADU marketplace 🏠
+  OpenPlex - A landing page of AI-driven ADU marketplace 🏠
 </h1>
 
-MaxiPlexi, your innovative marketplace for accessory dwelling units (ADUs), where we blend authentic, pre-approved designs with the latest AI-driven customization and efficient project management. Our platform connects you with a network of vetted contractors, offering competitive bids and tailored solutions to ensure your ADU fits your lifestyle and adds value to your home. With assistance in the permitting process and comprehensive project insights, we make ADU construction seamless, efficient, and financially smart. Choose MaxiPlexi for a streamlined, transparent, and rewarding home expansion journey. Step into the future of personalized, intelligent home expansions with us today!
+OpenPlex, your innovative marketplace for accessory dwelling units (ADUs), where we blend authentic, pre-approved designs with the latest AI-driven customization and efficient project management. Our platform connects you with a network of vetted contractors, offering competitive bids and tailored solutions to ensure your ADU fits your lifestyle and adds value to your home. With assistance in the permitting process and comprehensive project insights, we make ADU construction seamless, efficient, and financially smart. Choose OpenPlex for a streamlined, transparent, and rewarding home expansion journey. Step into the future of personalized, intelligent home expansions with us today!
 
 <hr>
 
@@ -35,7 +35,7 @@ MaxiPlexi, your innovative marketplace for accessory dwelling units (ADUs), wher
 
 ## Full Description:
 
-Welcome to MaxiPlexi, the pioneering marketplace for accessory dwelling units (ADUs), blending authentic designs with the latest in AI customization and efficient project management technology. Our commitment is to deliver a seamless, efficient, and financially savvy ADU construction experience. Here's how we ensure a comprehensive, personalized, and value-driven journey:
+Welcome to OpenPlex, the pioneering marketplace for accessory dwelling units (ADUs), blending authentic designs with the latest in AI customization and efficient project management technology. Our commitment is to deliver a seamless, efficient, and financially savvy ADU construction experience. Here's how we ensure a comprehensive, personalized, and value-driven journey:
 
 1. **Intelligent Design Adaptation:**
 
@@ -43,7 +43,7 @@ Welcome to MaxiPlexi, the pioneering marketplace for accessory dwelling units (A
 
 2. **Enhanced Project Matching:**
 
-    - **Optimized Contractor Collaboration:** As a marketplace, MaxiPlexi connects you with multiple bids from our vetted network of contractors. Our sophisticated algorithms assess contractor history, expertise, and project alignment, ensuring you find the right professional at the right price.
+    - **Optimized Contractor Collaboration:** As a marketplace, OpenPlex connects you with multiple bids from our vetted network of contractors. Our sophisticated algorithms assess contractor history, expertise, and project alignment, ensuring you find the right professional at the right price.
 
 3. **Automated Permitting Process:**
 
@@ -52,7 +52,7 @@ Welcome to MaxiPlexi, the pioneering marketplace for accessory dwelling units (A
 4. **Comprehensive Project Insights:**
     - **Informed, Efficient, and Economical:** Gain in-depth insights into every aspect of your ADU project. Our integrated analysis tools offer clarity on contracts, illuminate market trends, and provide a detailed value analysis, helping you understand the potential return on investment, rental possibilities, and overall financial impact of your ADU.
 
-MaxiPlexi isn't just a service; it's a marketplace that empowers homeowners by providing access to a range of professionals, designs, and tools. We're committed to reshaping the home expansion experience, focusing on customization, efficiency, and informed decision-making. Every homeowner deserves a streamlined, transparent, and rewarding ADU project journey. Choose MaxiPlexi for an ADU that complements your lifestyle and adds value to your home. Start your journey with us today, and step into the future of personalized, intelligent home expansions.
+OpenPlex isn't just a service; it's a marketplace that empowers homeowners by providing access to a range of professionals, designs, and tools. We're committed to reshaping the home expansion experience, focusing on customization, efficiency, and informed decision-making. Every homeowner deserves a streamlined, transparent, and rewarding ADU project journey. Choose OpenPlex for an ADU that complements your lifestyle and adds value to your home. Start your journey with us today, and step into the future of personalized, intelligent home expansions.
 
 ## Deploy your own
 

@@ -14,7 +14,7 @@ export const HomeBanner = () => {
                 {/* Appear First */}
                 <MotionBTTContainer transition={{ delay: 0.2, duration: 0.5 }}>
                     <BadgeGroup alignment="center">
-                        <BadgeMessage>Welcome to MaxiPlexi!</BadgeMessage>
+                        <BadgeMessage>Welcome to OpenPlex!</BadgeMessage>
                         <BadgeIcon icon="fluent:home-12-filled" />
                     </BadgeGroup>
                 </MotionBTTContainer>
@@ -45,10 +45,10 @@ export const HomeBanner = () => {
                 <MotionBTTContainer transition={{ delay: 0.8, duration: 0.5 }}>
                     <div className="page-banner--image">
                         <Image
-                            src="/maxiplexi-home-banner.png" // Update this to your image path
+                            src="/OpenPlex-home-banner.png" // Update this to your image path
                             width={1200}
                             height={1200}
-                            alt="MaxiPlexi Home Banner"
+                            alt="OpenPlex Home Banner"
                             objectFit="cover"
                             className="mx-auto"
                         />

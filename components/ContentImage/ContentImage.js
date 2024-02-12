@@ -8,7 +8,7 @@ const ContentImageData = [
         id: uuid(),
         title: "Tailored Solutions for Every Home",
         content:
-            "MaxiPlexi revolutionizes the ADU selection process by facilitating a chat-based conversation to capture your specific needs, lifestyle, and local architectural preferences. This innovative approach moves away from standard forms, offering you a selection of visually appealing, functional, and seamlessly integrated designs that resonate with your personal style.",
+            "OpenPlex revolutionizes the ADU selection process by facilitating a chat-based conversation to capture your specific needs, lifestyle, and local architectural preferences. This innovative approach moves away from standard forms, offering you a selection of visually appealing, functional, and seamlessly integrated designs that resonate with your personal style.",
         align: "right",
         image: "/features1.png"
     },
@@ -16,7 +16,7 @@ const ContentImageData = [
         id: uuid(),
         title: "Your Perfect Match Awaits",
         content:
-            "Connect with a vast network of vetted contractors through our AI-driven marketplace. MaxiPlexi evaluates contractors on their history, expertise, and customer satisfaction, providing multiple bids to ensure you find the ideal professional for your project at the best price.",
+            "Connect with a vast network of vetted contractors through our AI-driven marketplace. OpenPlex evaluates contractors on their history, expertise, and customer satisfaction, providing multiple bids to ensure you find the ideal professional for your project at the best price.",
         align: "left",
         image: "/features2.png"
     },
@@ -24,7 +24,7 @@ const ContentImageData = [
         id: uuid(),
         title: "Navigating Bureaucracy with Ease",
         content:
-            "Tackle the complexities of permit applications effortlessly with MaxiPlexi's meticulous guide. We assist in simplifying the process, helping you fill out forms, gather the right information, and ensure all paperwork is accurately completed. Enjoy a smooth path to construction with our expert support.",
+            "Tackle the complexities of permit applications effortlessly with OpenPlex's meticulous guide. We assist in simplifying the process, helping you fill out forms, gather the right information, and ensure all paperwork is accurately completed. Enjoy a smooth path to construction with our expert support.",
         align: "right",
         image: "/features3.png"
     },
@@ -32,7 +32,7 @@ const ContentImageData = [
         id: uuid(),
         title: "Knowledge at Your Fingertips",
         content:
-            "Empower your ADU project with MaxiPlexi's integrated analysis tools. Gain valuable insights into contracts, market trends, and value analysis. Understand the potential return on investment and explore rental possibilities with confidence, maximizing the financial benefits of your home expansion.",
+            "Empower your ADU project with OpenPlex's integrated analysis tools. Gain valuable insights into contracts, market trends, and value analysis. Understand the potential return on investment and explore rental possibilities with confidence, maximizing the financial benefits of your home expansion.",
         align: "left",
         image: "/features4.png"
     }

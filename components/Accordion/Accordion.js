@@ -7,56 +7,56 @@ import clsx from "clsx";
 const accordionData = [
     {
         id: uuid(),
-        title: "What is MaxiPlexi?",
+        title: "What is OpenPlex?",
         isOpen: true,
         content:
-            "MaxiPlexi is an AI-driven marketplace designed to streamline the process of building accessory dwelling units (ADUs) by connecting homeowners with qualified contractors and architects. It focuses on matching user's style preferences with professionals who have a track record of similar successful projects."
+            "OpenPlex is an AI-driven marketplace designed to streamline the process of building accessory dwelling units (ADUs) by connecting homeowners with qualified contractors and architects. It focuses on matching user's style preferences with professionals who have a track record of similar successful projects."
     },
     {
         id: uuid(),
-        title: "How does MaxiPlexi work?",
+        title: "How does OpenPlex work?",
         isOpen: false,
         content:
-            "MaxiPlexi uses AI technology to understand your specific ADU needs and style preferences through an interactive chat-based system. It then matches you with vetted contractors and architects from our network, providing multiple bids for your project."
+            "OpenPlex uses AI technology to understand your specific ADU needs and style preferences through an interactive chat-based system. It then matches you with vetted contractors and architects from our network, providing multiple bids for your project."
     },
     {
         id: uuid(),
-        title: "MaxiPlexi involved in the construction process?",
+        title: "OpenPlex involved in the construction process?",
         isOpen: false,
         content:
-            "Currently MaxiPlexi is not directly involved in the construction. Instead, it facilitates the connection between homeowners and the best-suited contractors and architects for their ADU project."
+            "Currently OpenPlex is not directly involved in the construction. Instead, it facilitates the connection between homeowners and the best-suited contractors and architects for their ADU project."
     },
     {
         id: uuid(),
-        title: "How does MaxiPlexi select contractors and architects?",
+        title: "How does OpenPlex select contractors and architects?",
         isOpen: false,
         content:
-            "Contractors and architects are vetted based on their expertise, experience, customer feedback, and history of completed projects. MaxiPlexi's AI-driven system ensures that these professionals align with your project's specific needs and style."
+            "Contractors and architects are vetted based on their expertise, experience, customer feedback, and history of completed projects. OpenPlex's AI-driven system ensures that these professionals align with your project's specific needs and style."
     },
     {
         id: uuid(),
-        title: "Can MaxiPlexi help with permit applications?",
+        title: "Can OpenPlex help with permit applications?",
         isOpen: false,
         content:
-            "While MaxiPlexi does not directly handle permit applications, it provides users with guidance and resources to help navigate the permitting process more smoothly."
+            "While OpenPlex does not directly handle permit applications, it provides users with guidance and resources to help navigate the permitting process more smoothly."
     },
     {
         id: uuid(),
         title: "What kind of design styles can I choose from?",
         isOpen: false,
         content:
-            "MaxiPlexi offers a wide range of design styles, from modern and contemporary to traditional and rustic. The platform matches your preference with professionals who have experience in those particular styles."
+            "OpenPlex offers a wide range of design styles, from modern and contemporary to traditional and rustic. The platform matches your preference with professionals who have experience in those particular styles."
     },
     {
         id: uuid(),
-        title: "How much does it cost to use MaxiPlexi?",
+        title: "How much does it cost to use OpenPlex?",
         isOpen: false,
         content:
-            "It is absolutely free to use MaxiPlexi to select designs and receive quotes. Users can explore various design options and connect with contractors and architects without any upfront cost. MaxiPlexi is compensated by the contractors or architects only once a contract is signed, ensuring a commitment-free browsing and planning experience for homeowners."
+            "It is absolutely free to use OpenPlex to select designs and receive quotes. Users can explore various design options and connect with contractors and architects without any upfront cost. OpenPlex is compensated by the contractors or architects only once a contract is signed, ensuring a commitment-free browsing and planning experience for homeowners."
     },
     {
         id: uuid(),
-        title: "How does MaxiPlexi ensure the quality of each project?",
+        title: "How does OpenPlex ensure the quality of each project?",
         isOpen: false,
         content:
             "Quality assurance is achieved through the rigorous vetting of contractors and architects, as well as continuous feedback and ratings from users to ensure high standards are maintained throughout the network."

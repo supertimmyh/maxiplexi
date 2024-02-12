@@ -13,7 +13,7 @@ const milestonesData = [
         id: uuid(),
         label: "Where we at",
         position: 50, // Positioned at 50% where the progress currently is
-        note: "The MaxiPlexi team is currently work hard to fine tune the product"
+        note: "The OpenPlex team is currently work hard to fine tune the product"
     },
     {
         id: uuid(),

@@ -1,12 +1,12 @@
 {
-    "name": "maxiplexi",
+    "name": "OpenPlex",
     "version": "1.0.0",
-    "description": "MaxiPlexi - AI-driven ADU marketplace that empowering every homeowners journey of house expansion.",
+    "description": "OpenPlex - AI-driven ADU marketplace that empowering every homeowners journey of house expansion.",
     "main": "index.js",
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/supertimmyh/maxiplexi.git"
+        "url": "git+https://github.com/supertimmyh/OpenPlex.git"
     },
     "keywords": [
         "next",
